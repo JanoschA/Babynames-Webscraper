@@ -1,4 +1,4 @@
-# Baby Names Webscraper
+# Babynames Webscraper
 
 This Python-based project is a webscraper that extracts the most popular baby names from the [Hipp site](https://www.hipp.de/schwanger/ratgeber/babynamen/top-200-vornamen/).
 
